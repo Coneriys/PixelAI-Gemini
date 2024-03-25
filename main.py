@@ -2,7 +2,7 @@ import disnake
 from disnake.ext import commands
 import google.generativeai as genai
 
-token = "MTIxODEzMDgzNjcwMTA1NzEwNA.GuqxWb.0Ho7vmq4F_RFZ-nFbCGBxjgKIMIdVFe7eyjyDs"
+token = "пошел нахуй)))"
 bot = commands.Bot(intents=disnake.Intents.all())
 GOOGLE_API_KEY="AIzaSyBN8RxQ_2Ky8beudakMlzavB8HDajm0AwE"
 genai.configure(api_key=GOOGLE_API_KEY)
